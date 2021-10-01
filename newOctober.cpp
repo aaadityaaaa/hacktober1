@@ -11,7 +11,7 @@ int main()
 {
 	// prints hello world
 	cout<<"Hello World";
-	cout<<"Hello World this is Mayonk";
+	cout<<"Mayonk this side";
 	cout<<"Hello friend";
 	
 	return 0;
