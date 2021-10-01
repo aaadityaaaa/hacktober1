@@ -12,6 +12,7 @@ int main()
 	// prints hello world
 	cout<<"Hello World";
 	cout<<"Hello World this is Mayonk";
+	cout<<"Hello friend";
 	
 	return 0;
 }
